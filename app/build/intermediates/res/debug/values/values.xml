@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/autumngrassel/Desktop/SimpleRssReader2/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="app_name">SimpleRSSReader</string>
+    <string name="date">Date &amp; Time: </string>
+    <string name="desc">Description: </string>
+    <string name="hello">Hello World, SimpleRSSReaderActivity!</string>
+    <string name="more_info">More Info</string>
+    <string name="title">Event title: </string>
+</resources>
