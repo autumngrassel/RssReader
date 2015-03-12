@@ -16,11 +16,7 @@ public class RssItem {
     private final String date;
 
 	public RssItem(String title, String link, String description) {
-        /*
-        "Title: ";
-        "Location: ";
-        "Description: ";
-        */
+
 
 		this.title = title;
 		this.link = link;
